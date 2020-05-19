@@ -1,0 +1,1032 @@
+2020-05-12 10:07:24,746:INFO:Getting the names from the txt file
+2020-05-12 10:08:03,307:INFO:Getting the names from the txt file
+2020-05-12 10:08:49,638:INFO:opening the input file
+2020-05-12 10:08:49,639:INFO:Getting the names from the txt file
+2020-05-12 10:19:13,248:INFO:opening the input file to read the file
+2020-05-12 10:19:13,249:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:19:13,249:INFO:remove duplicates from the list
+2020-05-12 10:19:13,249:INFO:printing the list to the console
+2020-05-12 10:19:13,250:INFO:Getting the names from the txt file
+2020-05-12 10:21:45,935:INFO:opening the input file to read the file
+2020-05-12 10:21:45,935:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:21:45,936:INFO:remove duplicates from the list
+2020-05-12 10:21:45,936:INFO:printing the list to the console
+2020-05-12 10:32:13,906:INFO:opening the input file to read the file
+2020-05-12 10:32:13,906:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:32:13,906:INFO:remove duplicates from the list
+2020-05-12 10:32:13,906:INFO:printing the list to the console
+2020-05-12 10:33:10,744:INFO:opening the input file to read the file
+2020-05-12 10:33:10,745:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:33:10,745:INFO:remove duplicates from the list
+2020-05-12 10:33:10,745:INFO:printing the list to the console
+2020-05-12 10:33:28,046:INFO:opening the input file to read the file
+2020-05-12 10:33:28,046:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:33:28,046:INFO:remove duplicates from the list
+2020-05-12 10:33:28,046:INFO:printing the list to the console
+2020-05-12 10:48:29,973:INFO:opening the input file to read the file
+2020-05-12 10:48:29,975:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:48:29,977:INFO:remove duplicates from the list
+2020-05-12 10:49:54,030:INFO:opening the input file to read the file
+2020-05-12 10:49:54,031:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:49:54,031:INFO:remove duplicates from the list
+2020-05-12 10:50:04,622:INFO:opening the input file to read the file
+2020-05-12 10:50:04,622:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:50:04,623:INFO:remove duplicates from the list
+2020-05-12 10:50:04,623:INFO:printing the list to the console
+2020-05-12 10:50:34,958:INFO:opening the input file to read the file
+2020-05-12 10:50:34,959:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 10:50:34,959:INFO:remove duplicates from the list
+2020-05-12 10:50:34,959:INFO:printing the list to the console
+2020-05-12 10:59:12,323:INFO:opening the input file to read the file
+2020-05-12 10:59:12,323:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:00:02,866:INFO:opening the input file to read the file
+2020-05-12 11:00:02,866:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:01:31,868:INFO:opening the input file to read the file
+2020-05-12 11:01:31,868:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:03:51,566:INFO:opening the input file to read the file
+2020-05-12 11:03:51,567:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:06:24,366:INFO:opening the input file to read the file
+2020-05-12 11:06:24,367:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:51:34,963:INFO:opening the input file to read the file
+2020-05-12 11:51:34,963:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:53:03,382:INFO:opening the input file to read the file
+2020-05-12 11:53:03,383:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:54:30,031:INFO:opening the input file to read the file
+2020-05-12 11:54:30,031:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:55:12,680:INFO:opening the input file to read the file
+2020-05-12 11:55:12,680:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:55:45,543:INFO:opening the input file to read the file
+2020-05-12 11:55:45,544:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 11:56:52,030:INFO:opening the input file to read the file
+2020-05-12 11:56:52,031:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:01:54,230:INFO:opening the input file to read the file
+2020-05-12 12:01:54,230:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:02:39,376:INFO:opening the input file to read the file
+2020-05-12 12:02:39,377:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:08:24,997:INFO:opening the input file to read the file
+2020-05-12 12:08:24,997:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:08:56,136:INFO:opening the input file to read the file
+2020-05-12 12:08:56,137:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:12:21,724:INFO:opening the input file to read the file
+2020-05-12 12:12:21,724:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:12:53,836:INFO:opening the input file to read the file
+2020-05-12 12:12:53,837:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:13:48,538:INFO:opening the input file to read the file
+2020-05-12 12:13:48,538:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:14:04,039:INFO:opening the input file to read the file
+2020-05-12 12:14:04,040:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:14:37,878:INFO:opening the input file to read the file
+2020-05-12 12:14:37,878:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:15:50,110:INFO:opening the input file to read the file
+2020-05-12 12:15:50,111:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:28:59,975:INFO:opening the input file to read the file
+2020-05-12 12:28:59,975:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:29:16,195:INFO:opening the input file to read the file
+2020-05-12 12:29:16,195:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:58:15,573:INFO:opening the input file to read the file
+2020-05-12 12:58:15,575:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:59:26,283:INFO:opening the input file to read the file
+2020-05-12 12:59:26,283:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 12:59:41,927:INFO:opening the input file to read the file
+2020-05-12 12:59:41,927:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:05:19,991:INFO:opening the input file to read the file
+2020-05-12 13:05:19,991:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:05:33,119:INFO:opening the input file to read the file
+2020-05-12 13:05:33,119:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:06:10,971:INFO:opening the input file to read the file
+2020-05-12 13:06:10,972:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:07:51,635:INFO:opening the input file to read the file
+2020-05-12 13:07:51,636:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:08:23,365:INFO:opening the input file to read the file
+2020-05-12 13:08:23,366:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:08:59,224:INFO:opening the input file to read the file
+2020-05-12 13:08:59,224:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:10:47,190:INFO:opening the input file to read the file
+2020-05-12 13:10:47,191:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:12:36,681:INFO:opening the input file to read the file
+2020-05-12 13:12:36,681:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:13:11,613:INFO:opening the input file to read the file
+2020-05-12 13:13:11,614:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:13:51,105:INFO:opening the input file to read the file
+2020-05-12 13:13:51,106:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:14:20,090:INFO:opening the input file to read the file
+2020-05-12 13:14:20,090:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:15:08,753:INFO:opening the input file to read the file
+2020-05-12 13:15:08,754:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:15:56,108:INFO:opening the input file to read the file
+2020-05-12 13:15:56,109:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:16:22,633:INFO:opening the input file to read the file
+2020-05-12 13:16:22,633:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:18:16,030:INFO:opening the input file to read the file
+2020-05-12 13:18:16,030:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:18:52,582:INFO:opening the input file to read the file
+2020-05-12 13:18:52,582:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:19:44,917:INFO:opening the input file to read the file
+2020-05-12 13:19:44,917:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:20:04,465:INFO:opening the input file to read the file
+2020-05-12 13:20:04,465:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:20:33,326:INFO:opening the input file to read the file
+2020-05-12 13:20:33,327:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:22:32,820:INFO:opening the input file to read the file
+2020-05-12 13:22:32,820:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:23:18,740:INFO:opening the input file to read the file
+2020-05-12 13:23:18,741:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:23:30,555:INFO:opening the input file to read the file
+2020-05-12 13:23:30,555:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:28:01,643:INFO:opening the input file to read the file
+2020-05-12 13:28:01,644:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:29:14,927:INFO:opening the input file to read the file
+2020-05-12 13:29:14,928:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:29:27,349:INFO:opening the input file to read the file
+2020-05-12 13:29:27,349:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:30:25,037:INFO:opening the input file to read the file
+2020-05-12 13:30:25,037:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:31:35,374:INFO:opening the input file to read the file
+2020-05-12 13:31:35,375:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:36:49,939:INFO:opening the input file to read the file
+2020-05-12 13:36:49,939:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:37:14,149:INFO:opening the input file to read the file
+2020-05-12 13:37:14,150:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:40:39,748:INFO:opening the input file to read the file
+2020-05-12 13:40:39,748:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:40:57,711:INFO:opening the input file to read the file
+2020-05-12 13:40:57,712:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 13:42:04,515:INFO:opening the input file to read the file
+2020-05-12 13:42:04,515:INFO:removing extra line and replacing space with underscore and converting letter to lowercase
+2020-05-12 17:02:41,290:INFO:User logged in
+2020-05-12 17:02:41,293:INFO:opening the input file to read the file
+2020-05-12 17:02:41,293:INFO:retrieving the names from names.txt file
+2020-05-12 17:02:41,293:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:02:41,293:INFO:calling the myap Function and implemented map functinality
+2020-05-12 17:02:41,294:INFO:converting appended list to the lowe case
+2020-05-12 17:02:41,294:INFO:removing the duplicates present using set datastructure
+2020-05-12 17:02:41,294:INFO:opening the input file to write into the file
+2020-05-12 17:02:41,295:INFO:Time taken to execute in console Duration: 0:00:00.001984
+2020-05-12 17:06:46,800:INFO:User logged in
+2020-05-12 17:06:46,800:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:06:46,800:INFO:calling the mymap Function and implemented map functinality
+2020-05-12 17:06:46,800:INFO:opening the input file to read the file
+2020-05-12 17:06:46,801:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,801:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,801:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,801:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,801:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,802:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,803:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,803:INFO:retrieving the names from names.txt file
+2020-05-12 17:06:46,803:INFO:converting appended list to the lowe case
+2020-05-12 17:06:46,803:INFO:removing the duplicates present using set 
+2020-05-12 17:06:46,803:INFO:opening the input file to write into the file
+2020-05-12 17:06:46,804:INFO:Time taken to execute in console Duration: 0:00:00.005998
+2020-05-12 17:08:23,480:INFO:User logged in
+2020-05-12 17:08:23,480:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:08:23,481:INFO:calling the mymap Function and implemented map functinality
+2020-05-12 17:08:23,481:INFO:opening the input file to read the file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,481:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:23,482:INFO:removing the duplicates present using set 
+2020-05-12 17:08:23,483:INFO:opening the input file to write into the file
+2020-05-12 17:08:23,483:INFO:Time taken to execute in console Duration: 0:00:00.008995
+2020-05-12 17:08:48,614:INFO:User logged in
+2020-05-12 17:08:48,614:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:08:48,614:INFO:calling the mymap Function and implemented map functinality
+2020-05-12 17:08:48,614:INFO:opening the input file to read the file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,615:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:retrieving the names from names.txt file
+2020-05-12 17:08:48,616:INFO:removing the duplicates present using set 
+2020-05-12 17:08:48,616:INFO:opening the input file to write into the file
+2020-05-12 17:08:48,617:INFO:Time taken to execute in console Duration: 0:00:00.004997
+2020-05-12 17:10:15,410:INFO:User logged in
+2020-05-12 17:10:15,410:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:10:15,410:INFO:calling the mymap Function and implemented map functinality
+2020-05-12 17:10:15,411:INFO:opening the input file to read the file
+2020-05-12 17:10:15,411:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,411:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,411:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,411:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,411:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,411:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,411:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,411:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,411:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,412:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,412:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,412:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,412:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,412:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,412:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,412:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,412:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,412:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,412:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,412:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,413:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,413:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,413:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,413:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,413:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,413:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,413:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,413:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,413:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,413:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,413:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,413:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,414:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,414:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,414:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:10:15,414:INFO:retrieving the names from names.txt file
+2020-05-12 17:10:15,414:INFO:removing the duplicates present using set 
+2020-05-12 17:10:15,414:INFO:opening the input file to write into the file
+2020-05-12 17:10:15,415:INFO:Time taken to execute in console Duration: 0:00:00.006996
+2020-05-12 17:15:35,423:INFO:User logged in
+2020-05-12 17:15:35,424:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:15:35,424:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:15:35,424:INFO:opening the input file to read the file
+2020-05-12 17:15:35,424:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,424:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,424:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,424:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,424:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,425:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,425:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,425:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,425:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,425:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,425:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,425:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,425:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,425:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,425:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,425:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,425:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,426:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,426:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,426:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,426:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,426:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,426:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,426:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,426:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,426:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,426:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,426:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,426:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,427:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,427:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,427:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,427:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,427:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,427:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:15:35,427:INFO:retrieving the names from names.txt file
+2020-05-12 17:15:35,427:INFO:removing the duplicates present using set 
+2020-05-12 17:15:35,427:INFO:opening the input file to write into the file
+2020-05-12 17:15:35,428:INFO:Time taken to execute in console Duration: 0:00:00.009994
+2020-05-12 17:18:06,447:INFO:User logged in
+2020-05-12 17:18:06,447:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:18:06,447:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:18:06,447:INFO:opening the input file to read the file
+2020-05-12 17:18:06,448:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,448:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,448:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,448:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,448:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,448:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,448:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,448:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,448:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,448:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,449:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,449:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,449:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,449:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,449:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,449:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,449:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,449:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,449:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,449:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,449:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,449:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,450:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,450:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,450:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,450:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,450:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,450:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,450:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,450:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,450:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,450:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,450:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,450:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,451:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:18:06,451:INFO:retrieving the names from names.txt file
+2020-05-12 17:18:06,451:INFO:removing the duplicates present using set 
+2020-05-12 17:18:06,451:INFO:opening the input file to write into the file
+2020-05-12 17:18:06,452:INFO:Time taken to execute in console Duration: 0:00:00.006997
+2020-05-12 17:19:27,580:INFO:User logged in
+2020-05-12 17:19:27,580:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:19:27,580:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:19:27,580:INFO:opening the input file to read the file
+2020-05-12 17:19:27,581:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,581:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,581:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,581:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,581:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,581:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,581:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,581:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,581:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,581:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,581:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,582:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,582:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,582:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,582:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,582:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,582:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,582:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,582:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,582:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,582:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,582:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,582:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,583:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,583:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,583:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,583:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,583:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,583:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:19:27,583:INFO:retrieving the names from names.txt file
+2020-05-12 17:19:27,584:INFO:removing the duplicates present using set 
+2020-05-12 17:19:27,584:INFO:opening the input file to write into the file
+2020-05-12 17:19:27,585:INFO:Time taken to execute in console Duration: 0:00:00.010014
+2020-05-12 17:20:46,777:INFO:User logged in
+2020-05-12 17:20:46,777:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:20:46,777:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:20:46,777:INFO:opening the input file to read the file
+2020-05-12 17:20:46,778:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,778:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,778:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,778:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,778:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,778:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,778:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,778:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,778:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,778:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,778:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,778:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,779:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,779:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,779:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,779:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,779:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,779:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,779:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,779:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,779:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,779:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,779:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,779:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,780:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,780:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,780:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,780:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,780:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,780:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,780:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,780:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,780:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,780:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,780:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:20:46,780:INFO:retrieving the names from names.txt file
+2020-05-12 17:20:46,781:INFO:removing the duplicates present using set 
+2020-05-12 17:20:46,781:INFO:opening the input file to write into the file
+2020-05-12 17:20:46,782:INFO:Time taken to execute in console Duration: 0:00:00.005999
+2020-05-12 17:21:53,781:INFO:User logged in
+2020-05-12 17:21:53,782:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:21:53,782:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:21:53,782:INFO:opening the input file to read the file
+2020-05-12 17:21:53,782:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:21:53,782:INFO:retrieving the names from names.txt file
+2020-05-12 17:21:53,782:INFO:removing the duplicates present using set 
+2020-05-12 17:21:53,782:INFO:opening the input file to write into the file
+2020-05-12 17:21:53,784:INFO:Time taken to execute in console Duration: 0:00:00.006995
+2020-05-12 17:24:09,258:INFO:User logged in
+2020-05-12 17:24:09,259:INFO:opening the input file to read the file
+2020-05-12 17:24:09,259:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:09,259:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:09,259:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:24:09,259:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:24:09,259:INFO:removing the duplicates present using set 
+2020-05-12 17:24:09,260:INFO:opening the input file to write into the file
+2020-05-12 17:24:09,261:INFO:Time taken to execute in console Duration: 0:00:00.006995
+2020-05-12 17:24:46,629:INFO:User logged in
+2020-05-12 17:24:46,629:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:24:46,629:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:24:46,629:INFO:opening the input file to read the file
+2020-05-12 17:24:46,629:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,629:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,629:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,630:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,630:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,630:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,630:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,630:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,630:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,630:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,630:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,630:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,630:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,630:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,631:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,631:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,631:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,631:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,631:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,631:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,632:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,632:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,632:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,632:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,632:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,632:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,632:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,633:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,633:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,633:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,633:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,633:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,633:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,633:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,633:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:24:46,633:INFO:retrieving the names from names.txt file
+2020-05-12 17:24:46,633:INFO:removing the duplicates present using set 
+2020-05-12 17:24:46,634:INFO:opening the input file to write into the file
+2020-05-12 17:24:46,635:INFO:Time taken to execute in console Duration: 0:00:00.010994
+2020-05-12 17:26:36,529:INFO:User logged in
+2020-05-12 17:26:36,529:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:26:36,529:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:26:36,529:INFO:opening the input file to read the file
+2020-05-12 17:26:36,530:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,530:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,530:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,530:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,530:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,530:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,530:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,530:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,530:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,530:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,531:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,531:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,531:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,531:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,531:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,531:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,531:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,532:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,532:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,532:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,532:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,532:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,532:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,532:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,533:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,533:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,533:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,533:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,533:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:26:36,533:INFO:retrieving the names from names.txt file
+2020-05-12 17:26:36,533:INFO:removing the duplicates present using set 
+2020-05-12 17:26:36,533:INFO:opening the input file to write into the file
+2020-05-12 17:26:36,535:INFO:Time taken to execute in console Duration: 0:00:00.006997
+2020-05-12 17:33:11,888:INFO:User logged in
+2020-05-12 17:33:11,888:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:33:11,888:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:33:11,888:INFO:opening the input file to read the file
+2020-05-12 17:33:11,889:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,889:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,889:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,889:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,889:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,889:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,889:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,889:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,889:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,889:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,890:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,890:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,890:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,890:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,890:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,890:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,890:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,890:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,890:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,890:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,890:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,891:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,891:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,891:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,891:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,891:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,891:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,891:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,891:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,891:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,891:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,891:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,892:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,892:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,892:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:33:11,892:INFO:retrieving the names from names.txt file
+2020-05-12 17:33:11,892:INFO:removing the duplicates present using set 
+2020-05-12 17:33:11,892:INFO:opening the input file to write into the file
+2020-05-12 17:33:11,893:INFO:Time taken to execute in console Duration: 0:00:00.006995
+2020-05-12 17:35:57,721:INFO:User logged in
+2020-05-12 17:35:57,721:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 17:35:57,721:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 17:35:57,721:INFO:opening the input file to read the file
+2020-05-12 17:35:57,722:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,722:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,722:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,722:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,722:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,722:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,722:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,722:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,722:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,722:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,722:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,723:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,723:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,723:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,723:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,723:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,723:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,723:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,723:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,723:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,723:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,723:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,724:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,724:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,724:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,724:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,724:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,724:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,724:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,724:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,724:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,724:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,724:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,724:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,725:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 17:35:57,725:INFO:retrieving the names from names.txt file
+2020-05-12 17:35:57,725:INFO:removing the duplicates present using set 
+2020-05-12 17:35:57,725:INFO:opening the input file to write into the file
+2020-05-12 17:35:57,726:INFO:Time taken to execute in console Duration: 0:00:00.010973
+2020-05-12 18:30:59,971:INFO:User logged in
+2020-05-12 18:30:59,971:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 18:30:59,971:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 18:30:59,971:INFO:opening the input file to read the file
+2020-05-12 18:30:59,971:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,971:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,971:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,971:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,972:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,972:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,972:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,972:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,972:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,972:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,972:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,972:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,972:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,972:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,972:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,973:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,973:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,973:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,973:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,973:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,973:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,973:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,973:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,973:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,973:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,973:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,973:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,974:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,974:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,974:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,974:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,974:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,974:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,974:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,974:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:30:59,974:INFO:retrieving the names from names.txt file
+2020-05-12 18:30:59,974:INFO:removing the duplicates present using set 
+2020-05-12 18:30:59,974:INFO:opening the input file to write into the file
+2020-05-12 18:30:59,975:INFO:Time taken to execute in console Duration: 0:00:00.006996
+2020-05-12 18:31:50,918:INFO:User logged in
+2020-05-12 18:31:50,918:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 18:31:50,918:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 18:31:50,919:INFO:opening the input file to read the file
+2020-05-12 18:31:50,919:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,919:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,919:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,919:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,919:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,919:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,919:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,919:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,919:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,920:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,920:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,920:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,920:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,920:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,920:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,920:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,920:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,920:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,920:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,920:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,921:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,921:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,921:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,921:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,921:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,921:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,921:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,921:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,921:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,921:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,921:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,922:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,922:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,922:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,922:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 18:31:50,922:INFO:retrieving the names from names.txt file
+2020-05-12 18:31:50,922:INFO:removing the duplicates present using set 
+2020-05-12 18:31:50,922:INFO:opening the input file to write into the file
+2020-05-12 18:31:50,923:INFO:Time taken to execute in console Duration: 0:00:00.009953
+2020-05-12 19:21:50,473:INFO:User logged in
+2020-05-12 19:21:50,473:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 19:21:50,473:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 19:21:50,473:INFO:opening the input file to read the file
+2020-05-12 19:21:50,473:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,473:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,474:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,474:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,474:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,474:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,474:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,474:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,474:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,474:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,474:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,474:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,475:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,475:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,475:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,475:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,475:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,475:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,475:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,475:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,475:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,475:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,475:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,475:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,476:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,476:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,476:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,476:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,476:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,476:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,476:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,476:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,476:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,477:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,477:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:21:50,477:INFO:retrieving the names from names.txt file
+2020-05-12 19:21:50,477:INFO:removing the duplicates present using set 
+2020-05-12 19:21:50,477:INFO:opening the input file to write into the file
+2020-05-12 19:21:50,478:INFO:Time taken to execute in console Duration: 0:00:00.007996
+2020-05-12 19:22:17,334:INFO:User logged in
+2020-05-12 19:22:17,334:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 19:22:17,334:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 19:22:17,334:INFO:opening the input file to read the file
+2020-05-12 19:22:17,335:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,335:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,335:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,335:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,335:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,335:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,335:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,335:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,336:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,336:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,336:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,336:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,336:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,336:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,336:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,336:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,336:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,336:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,336:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,337:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,337:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,337:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,337:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,337:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,337:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,337:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,337:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,337:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,337:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,338:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,338:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,338:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,339:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,339:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,339:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:22:17,339:INFO:retrieving the names from names.txt file
+2020-05-12 19:22:17,339:INFO:removing the duplicates present using set 
+2020-05-12 19:22:17,339:INFO:opening the input file to write into the file
+2020-05-12 19:22:17,341:INFO:Time taken to execute in console Duration: 0:00:00.011992
+2020-05-12 19:24:38,233:INFO:User logged in
+2020-05-12 19:24:38,233:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 19:24:38,233:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 19:24:38,233:INFO:opening the input file to read the file
+2020-05-12 19:24:38,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,237:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,237:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,237:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:38,237:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:38,237:INFO:removing the duplicates present using set 
+2020-05-12 19:24:38,237:INFO:opening the input file to write into the file
+2020-05-12 19:24:38,238:INFO:Time taken to execute in console Duration: 0:00:00.011983
+2020-05-12 19:24:54,426:INFO:User logged in
+2020-05-12 19:24:54,426:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 19:24:54,427:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 19:24:54,427:INFO:opening the input file to read the file
+2020-05-12 19:24:54,427:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,427:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,427:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,427:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,427:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,428:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,428:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,428:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,428:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,428:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,428:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,428:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,428:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,428:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,428:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,428:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,428:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,429:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,429:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,429:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,429:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,429:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,429:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,429:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,429:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,429:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,429:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,429:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,430:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,430:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,430:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,430:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,430:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,430:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,430:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:24:54,430:INFO:retrieving the names from names.txt file
+2020-05-12 19:24:54,431:INFO:removing the duplicates present using set 
+2020-05-12 19:24:54,431:INFO:opening the input file to write into the file
+2020-05-12 19:24:54,432:INFO:Time taken to execute in console Duration: 0:00:00.010990
+2020-05-12 19:48:15,232:INFO:User logged in
+2020-05-12 19:48:15,232:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 19:48:15,232:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 19:48:15,232:INFO:opening the input file to read the file
+2020-05-12 19:48:15,232:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,233:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,233:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,233:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,233:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,233:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,233:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,233:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,233:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,233:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,233:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,233:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,234:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,234:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,235:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,235:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,236:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:48:15,236:INFO:retrieving the names from names.txt file
+2020-05-12 19:48:15,236:INFO:removing the duplicates present using set 
+2020-05-12 19:48:15,237:INFO:opening the input file to write into the file
+2020-05-12 19:48:15,238:INFO:Time taken to execute in console Duration: 0:00:00.012008
+2020-05-12 19:50:25,395:INFO:User logged in
+2020-05-12 19:50:25,395:INFO:Function that append @pydemo.com to the returned names
+2020-05-12 19:50:25,395:INFO:calling the myMap Function and implemented map functionality
+2020-05-12 19:50:25,395:INFO:opening the input file to read the file
+2020-05-12 19:50:25,396:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,396:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,396:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,396:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,396:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,396:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,396:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,396:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,396:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,396:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,397:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,397:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,397:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,397:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,397:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,397:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,397:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,397:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,397:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,397:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,397:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,397:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,398:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,398:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,398:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,398:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,398:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,398:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,398:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,398:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,399:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,399:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,399:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,399:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,399:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-12 19:50:25,399:INFO:retrieving the names from names.txt file
+2020-05-12 19:50:25,399:INFO:removing the duplicates present using set 
+2020-05-12 19:50:25,400:INFO:opening the input file to write into the file
+2020-05-12 19:50:25,402:INFO:Time taken to execute in console Duration: 0:00:00.009000
+2020-05-14 10:54:06,015:INFO:User logged in
+2020-05-14 10:54:06,016:INFO:Function that append @pydemo.com to the returned names
+2020-05-14 10:54:06,016:INFO:calling the myMap Function and implemented map functionality
+2020-05-14 10:54:06,016:INFO:opening the input file to read the file
+2020-05-14 10:54:06,018:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,018:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,018:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,018:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,018:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,018:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,019:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,019:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,019:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,019:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,019:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,019:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,020:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,020:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,020:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,020:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,020:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,020:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,020:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,020:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,021:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,021:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,021:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,021:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,021:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,021:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,021:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,022:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,022:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,022:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,022:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,022:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,022:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,022:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,023:INFO:removing extra lines ,converting to lowercase and replacing space with string
+2020-05-14 10:54:06,023:INFO:retrieving the names from names.txt file
+2020-05-14 10:54:06,023:INFO:removing the duplicates present using set 
+2020-05-14 10:54:06,023:INFO:opening the input file to write into the file
+2020-05-14 10:54:06,026:INFO:Time taken to execute in console Duration: 0:00:00.015994

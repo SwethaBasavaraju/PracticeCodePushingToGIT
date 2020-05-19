@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cucumberption.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.004 s <<< FAILURE! - in cucumberption.TestRunner
+initializationError(cucumberption.TestRunner)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.TypeNotPresentException: Type Cucumber not present
+Caused by: java.lang.ClassNotFoundException: Cucumber
+
